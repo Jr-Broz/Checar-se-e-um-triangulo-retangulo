@@ -4,16 +4,6 @@ import java.lang.Math;
 
 public class Projeto {
     
-    
-    public static void operacoes(int x, int y)
-    {
-        /*
-        System.out.println("soma: " + x+y);
-        System.out.println("subtracao:" + (x - y));
-        System.out.println("multiplicacao: " + x * y);
-        System.out.println("divisao: " + x / y);
-          */      
-    }
   
     public static void checarTriangulo()
     {
